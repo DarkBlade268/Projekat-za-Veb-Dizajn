@@ -1,0 +1,19 @@
+h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #1f2a44;
+}
+
+h4 {
+    max-width: 850px;
+    margin: 40px auto;
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.7;
+    color: #444;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+    text-align: left;
+}
